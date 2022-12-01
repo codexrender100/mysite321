@@ -1,0 +1,147 @@
+/*
+	@name web_1920___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__web_1920___1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+#component_1___1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 217px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 219px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(90deg , rgba(255,0,0,255) 0%, rgba(131,135,255,255) 50%, rgba(219,255,46,255) 100%);
+	background: -o-linear-gradient(90deg , rgba(255,0,0,255) 0%, rgba(131,135,255,255) 50%, rgba(219,255,46,255) 100%);
+	background: -moz-linear-gradient(90deg , rgba(255,0,0,255) 0%, rgba(131,135,255,255) 50%, rgba(219,255,46,255) 100%);
+	background: -ms-linear-gradient(90deg , rgba(255,0,0,255) 0%, rgba(131,135,255,255) 50%, rgba(219,255,46,255) 100%);
+	background: linear-gradient(90deg , rgba(255,0,0,255) 0%, rgba(131,135,255,255) 50%, rgba(219,255,46,255) 100%);
+}
+
+#component_3___1 {
+	top: 49px;
+	left: 669px;
+	width: 583px;
+	height: 110px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 583px;
+	height: 110px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(181,203,255,255);
+}
+
+#component_4___1 {
+	top: 64px;
+	left: 747px;
+	width: 427px;
+	height: 80px;
+}
+
+#software_tools {
+	top: 0px;
+	left: 0px;
+	width: 462px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#component_5___1 {
+	top: 278px;
+	left: 1235px;
+	width: 634px;
+	height: 759px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 636px;
+	height: 761px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#component_2___1 {
+	top: 290px;
+	left: 1262px;
+	width: 119px;
+	height: 53px;
+}
+
+#topics {
+	top: 0px;
+	left: 0px;
+	width: 144px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#path_1 {
+	top: 359.73669433594px;
+	left: 1235px;
+	width: 634.34899902344px;
+	height: 1px;
+}
+
+#component_6___1 {
+	top: 395px;
+	left: 1262px;
+	width: 600px;
+	height: 560px;
+}
+
+#software_development_projects_immediately_after_completing_their_formal_education___in_the_present_industry__if_you_wish_to_land__a_promising_job_in_the_field_of_software__development__you_must_have_a_few_software__development_projects_under_your_belt__as_ {
+	top: 0px;
+	left: 0px;
+	width: 620px;
+	height: 581px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
